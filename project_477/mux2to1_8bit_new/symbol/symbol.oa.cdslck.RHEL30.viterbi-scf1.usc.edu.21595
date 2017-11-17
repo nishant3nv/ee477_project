@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      narisett
+HostName                       viterbi-scf1.usc.edu
+ProcessIdentifier              21595
+ProcessCreationTime_UTC        1510905173
+ProcessCreationTime_Readable   Thu Nov 16 23:52:53 2017 PST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/scf-16/narisett/cds/ee477_project/project_477/mux2to1_8bit_new/symbol/symbol.oa.cdslck
+TimeEditLocked                 Fri Nov 17 00:49:43 2017 PST
