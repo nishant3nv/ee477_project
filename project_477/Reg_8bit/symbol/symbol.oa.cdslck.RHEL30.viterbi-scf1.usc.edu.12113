@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Fri Dec  1 13:18:31 2017 PST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/scf-16/narisett/cds/ee477_project/project_477/Mul_Div_Arbiter/extracted/layout.oa.cdslck
-TimeEditLocked                 Fri Dec  1 14:42:19 2017 PST
+FilePathUsedToEditLock         /home/scf-16/narisett/cds/ee477_project/project_477/Reg_8bit/symbol/symbol.oa.cdslck
+TimeEditLocked                 Fri Dec  1 14:56:40 2017 PST
